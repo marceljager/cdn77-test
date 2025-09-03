@@ -1,0 +1,1 @@
+import"./DsnmJJEf.js";import{i as e,w as i,l as c,x as r,y as l,z as p}from"./qE5S1aE7.js";import{d as u}from"./PU0TzxnB.js";var m=e('<button class="button svelte-1obsocp" type="button"><!></button>');function h(n,o){var t=m();t.__click=function(...s){o.onclick?.apply(this,s)};var a=r(t);i(a,()=>o.children??l),p(t),c(n,t)}u(["click"]);export{h as B};
